@@ -11,10 +11,14 @@
             "id": "96b08598f5ed476a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -170,48 +175,47 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "0eee462ee4686114",
   "lastOpenFiles": [
+    "templates/mkdocs.md",
+    "Project/helper.md",
+    "云计算/Kubernetes.md",
+    "云计算/Docker.md",
+    "云计算/云原生概述.md",
+    "云计算/微服务概述.md",
+    "云计算/Severless/OpenWhisk.md",
+    "软件工程/Makefile基础.md",
+    "软件工程/设计模式.md",
+    "软件工程/Web开发/SSL证书.md",
+    "软件工程/Web开发/Nginx.md",
     "软件工程/Web开发/鉴权.md",
+    "软件工程/数据库/Redis/Redis基础.md",
+    "软件工程/数据库/MySQL/MySQL常见问题.md",
+    "软件工程/版本控制/SVN/SVN基础.md",
+    "软件工程/版本控制/Git/Git问题汇总.md",
     "软件工程/版本控制/Git/Git基础.md",
     "软件工程/版本控制/Git/完整Git开发规范.md",
-    "操作系统/Linux/Linux kernel/Linux会话.md",
-    "云计算/微服务概述.md",
-    "Knowledge/index.md",
-    "Knowledge/templates/mkdocs.md",
+    "计算机系统/RDMA.md",
+    "计算机系统/GPU/NCCL.md",
+    "计算机系统/GPU/GPU通信方式.md",
+    "计算机系统/GPU/CUDA编程.md",
+    "计算机系统/CPU/Ring Buffer.md",
+    "计算机网络/WebSocket.md",
+    "工具/mkdocs-pulisher.md",
+    "分布式/RPC.md",
     "Knowledge/templates",
-    "Knowledge/工具/mkdocs-pulisher.md",
     "Knowledge/工具",
-    "Knowledge/Project/helper.md",
     "Knowledge/Project",
-    "Knowledge/分布式/Raft.md",
-    "Knowledge/分布式/RPC.md",
     "Knowledge/分布式",
-    "Knowledge/编程语言/Scala/Scala入门.md",
-    "Knowledge/编程语言/Python/Python基础.md",
-    "Knowledge/编程语言/Golang/构建GoWeb服务器.md",
-    "Knowledge/编程语言/Golang/Go语言进阶.md",
-    "Knowledge/编程语言/Golang/Go语言基础.md",
     "Knowledge/编程语言/Scala",
     "Knowledge/编程语言/Python",
     "Knowledge/编程语言/Golang",
     "Knowledge/编程语言",
-    "Knowledge/云计算/Severless/OpenWhisk.md",
-    "Knowledge/云计算/微服务概述.md",
-    "Knowledge/云计算/云原生概述.md",
     "Knowledge/云计算/Severless",
-    "Knowledge/云计算/Kubernetes.md",
-    "Knowledge/云计算/Docker.md",
     "Knowledge/云计算",
-    "Knowledge/软件工程/版本控制/SVN/SVN基础.md",
-    "Knowledge/软件工程/版本控制/Git/完整Git开发规范.md",
-    "Knowledge/软件工程/版本控制/Git/Git问题汇总.md",
-    "Knowledge/软件工程/版本控制/Git/Git基础.md",
-    "Knowledge/软件工程/数据库/MySQL/MySQL常见问题.md",
     "未命名.canvas",
     "Pasted image 20250411224333.png"
   ]
