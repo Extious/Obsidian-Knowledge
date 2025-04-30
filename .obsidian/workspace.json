@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34d89e0003ef9237",
+        "id": "7ea85cf88a735cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "b1d5072f179f4e92",
+            "id": "ccc51972b6a9a23c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eee462ee4686114",
+  "active": "ccc51972b6a9a23c",
   "lastOpenFiles": [
     "操作系统/Linux/Linux kernel/Linux会话.md",
     "index.md",
